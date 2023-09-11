@@ -18,7 +18,7 @@ class index extends Component {
           <div class="gap-8 items-center py-8 px-4 mx-auto max-w-screen-xl xl:gap-16 md:grid md:grid-cols-2 sm:py-16 lg:px-6">
             <div class="mt-10 md:mt-0 m-5">
               <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">
-                قبل و بعد xcw عمل زیبایی{" "}
+                قبل و بعد xzz عمل زیبایی{" "}
               </h2>
               <h2 class=" mb-4 text-1xl tracking-tight font-bold text-gray-900 dark:text-white">
                 <p>
