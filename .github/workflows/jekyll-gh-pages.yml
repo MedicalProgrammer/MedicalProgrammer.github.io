@@ -30,7 +30,7 @@ jobs:
       - name: Checkout 🛎️
         uses: actions/checkout@v3
       - name: docker
-        run: docker run --rm -it -v $(pwd):/ usr/src/app node:18 npm install; docker run --rm -it -v $(pwd):/ usr/src/app node:18 npm run build
+        run: docker run --rm -it -v $(pwd):/src node:9 bash -c "cd /src; npm install; npm run build"
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
