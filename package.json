@@ -1,7 +1,7 @@
 {
   "name": "final",
   "version": "0.1.0",
-  "homepage": "https://MedicalProgrammer.github.io/react-gh-pages",
+  "homepage": "https://MedicalProgrammer.github.io/",
   "private": true,
   "dependencies": {
     "@material-tailwind/react": "^2.0.6",
