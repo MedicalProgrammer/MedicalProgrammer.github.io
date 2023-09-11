@@ -1,0 +1,42 @@
+/* Slider.css */
+.slider-container {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    /* Adjust the maximum width as needed */
+    margin: 0 auto;
+}
+
+/* Style the slider handle (FaArrowsAltH) */
+.react-compare-image-slider {
+    background-color: transparent;
+    border: none;
+}
+
+/* Make the slider handle larger for touch interaction */
+.react-compare-image-slider:before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: -15px;
+    /* Adjust the handle size as needed */
+    width: 30px;
+    /* Adjust the handle size as needed */
+    height: 30px;
+    /* Adjust the handle size as needed */
+    background-color: #fff;
+    /* Adjust the handle color as needed */
+    border: 2px solid #700E7F;
+    /* Adjust the handle border color as needed */
+    border-radius: 50%;
+    transform: translateY(-50%);
+    cursor: grab;
+}
+
+/* Style the slider line */
+.react-compare-image-slider-line {
+    background-color: #700E7F;
+    /* Adjust the line color as needed */
+    height: 2px;
+    /* Adjust the line height as needed */
+}
