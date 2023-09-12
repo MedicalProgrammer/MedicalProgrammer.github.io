@@ -7,10 +7,8 @@ import { FaArrowsAltH } from "react-icons/fa";
 
 class index extends Component {
   render() {
-    const before =
-      "https://upload.wikimedia.org/wikipedia/commons/f/f5/Poster-sized_portrait_of_Barack_Obama.jpg";
-    const after =
-      "https://hindalkindi1992.files.wordpress.com/2013/11/portrait_eyes_23.jpg";
+    const before = "https://i.postimg.cc/TPh01Gxn/IMG-3954.jpg";
+    const after = "https://i.postimg.cc/Kjhy6pbC/IMG-3955.jpg";
 
     return (
       <>
@@ -30,7 +28,7 @@ class index extends Component {
                 </p>
               </h2>
 
-              <Link to="/register" className="">
+              <Link to="/services" className="">
                 <button
                   type="button"
                   class="text-purple-700 hover:text-white border flex items-center justify-center border-purple-700 hover:bg-purple-800 focus:ring-4 focus:outline-none focus:ring-purple-300 font-lg rounded-xl text-xl px-3 py-1.5 text-center mr-2  dark:border-purple-500 dark:text-purple-500 dark:hover:text-white dark:hover:bg-purple-500 dark:focus:ring-purple-800"
