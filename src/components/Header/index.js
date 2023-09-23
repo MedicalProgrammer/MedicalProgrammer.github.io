@@ -103,7 +103,7 @@ const Header = () => {
             <img
               src="https://drhannanehazimi.com/wp-content/uploads/2019/12/dr.azimi_.png"
               className="h-8 mx-1 sm:h-9"
-              alt="V2rayReseller™ Logo"
+              alt="Dr Hannaneh Azimi"
             />
             <span className="self-center md:text-xl hidden md:block font-semibold whitespace-nowrap dark:text-white">
               کلینیک دکتر حنانه عظیمی
