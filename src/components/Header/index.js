@@ -100,7 +100,7 @@ const Header = () => {
       >
         <Navbar.Brand className="container flex flex-wrap items-center justify-between  mx-auto pb-1">
           <Link to="/" className="flex items-center">
-            
+             
             <span className="self-center md:text-xl hidden md:block font-semibold whitespace-nowrap dark:text-white">
               کلینیک دکتر حنانه عظیمی
             </span>
