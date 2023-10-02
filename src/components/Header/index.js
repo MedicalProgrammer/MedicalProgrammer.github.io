@@ -100,11 +100,7 @@ const Header = () => {
       >
         <Navbar.Brand className="container flex flex-wrap items-center justify-between  mx-auto pb-1">
           <Link to="/" className="flex items-center">
-            <img
-              src="https://drhannanehazimi.com/wp-content/uploads/2019/12/dr.azimi_.png"
-              className="h-8 mx-1 sm:h-9"
-              alt="Dr Hannaneh Azimi"
-            />
+            
             <span className="self-center md:text-xl hidden md:block font-semibold whitespace-nowrap dark:text-white">
               کلینیک دکتر حنانه عظیمی
             </span>
@@ -271,7 +267,6 @@ const Header = () => {
           </div>
         ) : null}
       </Navbar>
-      
     </div>
   );
 };

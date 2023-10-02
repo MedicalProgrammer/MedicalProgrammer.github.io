@@ -9,12 +9,12 @@ const One = () => {
         <div class="gap-8 items-center py-8 px-4 mx-auto max-w-screen-xl xl:gap-16 md:grid md:grid-cols-2 sm:py-16 lg:px-6">
           <img
             class="w-full dark:hidden rounded-xl"
-            src="https://drhannanehazimi.com/wp-content/uploads/2018/01/azimi-doctor.jpeg"
+            src={require("../../../data/hmimg.jpeg")}
             alt="dashboard image"
           />
           <img
             class="w-full hidden rounded-xl dark:block"
-            src="https://drhannanehazimi.com/wp-content/uploads/2018/01/azimi-doctor.jpeg"
+            src={require("../../../data/homee.JPG")}
             alt="dashboard image"
           />
           <div class="mt-4 md:mt-0">
