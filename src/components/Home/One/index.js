@@ -14,7 +14,7 @@ const One = () => {
           />
           <img
             class="w-full hidden rounded-xl dark:block"
-            src={require("../../../data/homee.JPG")}
+            src={require("../../../data/hmimg.jpeg")}
             alt="dashboard image"
           />
           <div class="mt-4 md:mt-0">
