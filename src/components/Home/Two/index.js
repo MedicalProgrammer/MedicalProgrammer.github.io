@@ -39,7 +39,7 @@ const index = () => {
 
             <a href="/services" class="group">
               <div class="aspect-h-1 aspect-w-1 overflow-hidden rounded-lg h-full w-full object-cover object-center group-hover:opacity-75 bg-gray-200 xl:aspect-h-8 xl:aspect-w-7">
-                <div className="bg-[url('data/mezo.JPG')] h-[600px] w-[600px] relative">
+                <div className="bg-[url('data/mezjf.jpg')] h-[600px] w-[600px] relative">
                   <div class="absolute bottom-0 px-4 py-3 bg-gray-500/50 w-full">
                     <h1 class="text-white font-semibold text-4xl">
                       {" "}
